@@ -1,0 +1,1 @@
+# Powershell initngit add README.mdngit commit -m first commitngit remote add origin https://github.com/PeterWeidt/Powershell.gitngit push -u origin master
